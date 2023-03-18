@@ -1,3 +1,5 @@
 tweepy==4.12.1
 more-itertools==8.10.0
 tqdm==4.64.1
+langcodes==3.3.0
+language-data==1.1
